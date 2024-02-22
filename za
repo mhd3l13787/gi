@@ -1,0 +1,5 @@
+--commission-max-change-rate=0.05 \
+--min-self-delegation=1 \
+--fees=10000ulava \
+--from=wallet \
+-y
